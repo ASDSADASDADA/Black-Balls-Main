@@ -1,0 +1,5 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("Clown", "Synapse")
+local Tab = Window:NewTab("Lock")
+local Section = Tab:NewSection("Type 123456 on hentai.net")
